@@ -68,7 +68,7 @@ MySQL database
 Running the Application
 Clone the repository
 import the sql file 
-<code>
+<pre><code>
 -- phpMyAdmin SQL Dump
 -- version 5.1.1
 -- https://www.phpmyadmin.net/
@@ -364,4 +364,5 @@ COMMIT;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 
-</code>
+
+</code></pre>
